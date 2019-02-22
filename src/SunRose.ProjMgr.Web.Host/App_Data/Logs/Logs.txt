@@ -1,0 +1,78 @@
+DEBUG 2019-02-18 14:56:21,806 [1    ] Abp.Modules.AbpModuleManager             - Loading Abp modules...
+DEBUG 2019-02-18 14:56:21,904 [1    ] Abp.Modules.AbpModuleManager             - Found 15 ABP modules in total.
+DEBUG 2019-02-18 14:56:21,925 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: SunRose.ProjMgr.Web.Host.Startup.ProjMgrWebHostModule, SunRose.ProjMgr.Web.Host, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-02-18 14:56:21,929 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: SunRose.ProjMgr.ProjMgrWebCoreModule, SunRose.ProjMgr.Web.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-02-18 14:56:21,929 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: SunRose.ProjMgr.ProjMgrApplicationModule, SunRose.ProjMgr.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-02-18 14:56:21,930 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: SunRose.ProjMgr.ProjMgrCoreModule, SunRose.ProjMgr.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-02-18 14:56:21,930 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Zero.AbpZeroCoreModule, Abp.ZeroCore, Version=4.2.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-02-18 14:56:21,930 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Zero.AbpZeroCommonModule, Abp.Zero.Common, Version=4.2.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-02-18 14:56:21,931 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AbpKernelModule, Abp, Version=4.2.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-02-18 14:56:21,931 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AutoMapper.AbpAutoMapperModule, Abp.AutoMapper, Version=4.2.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-02-18 14:56:21,931 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: SunRose.ProjMgr.EntityFrameworkCore.ProjMgrEntityFrameworkModule, SunRose.ProjMgr.EntityFrameworkCore, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-02-18 14:56:21,932 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Zero.EntityFrameworkCore.AbpZeroCoreEntityFrameworkCoreModule, Abp.ZeroCore.EntityFrameworkCore, Version=4.2.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-02-18 14:56:21,932 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.EntityFrameworkCore.AbpEntityFrameworkCoreModule, Abp.EntityFrameworkCore, Version=4.2.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-02-18 14:56:21,932 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.EntityFramework.AbpEntityFrameworkCommonModule, Abp.EntityFramework.Common, Version=4.2.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-02-18 14:56:21,932 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AspNetCore.AbpAspNetCoreModule, Abp.AspNetCore, Version=4.2.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-02-18 14:56:21,932 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.AbpWebCommonModule, Abp.Web.Common, Version=4.2.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-02-18 14:56:21,933 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AspNetCore.SignalR.AbpAspNetCoreSignalRModule, Abp.AspNetCore.SignalR, Version=4.2.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-02-18 14:56:21,935 [1    ] Abp.Modules.AbpModuleManager             - 15 modules loaded.
+DEBUG 2019-02-18 14:56:22,016 [1    ] o.Configuration.LanguageManagementConfig - Converted Abp (Abp.Localization.Dictionaries.DictionaryBasedLocalizationSource) to MultiTenantLocalizationSource
+DEBUG 2019-02-18 14:56:22,016 [1    ] o.Configuration.LanguageManagementConfig - Converted AbpZero (Abp.Localization.Dictionaries.DictionaryBasedLocalizationSource) to MultiTenantLocalizationSource
+DEBUG 2019-02-18 14:56:22,016 [1    ] o.Configuration.LanguageManagementConfig - Converted ProjMgr (Abp.Localization.Dictionaries.DictionaryBasedLocalizationSource) to MultiTenantLocalizationSource
+DEBUG 2019-02-18 14:56:22,016 [1    ] o.Configuration.LanguageManagementConfig - Converted AbpWeb (Abp.Localization.Dictionaries.DictionaryBasedLocalizationSource) to MultiTenantLocalizationSource
+DEBUG 2019-02-18 14:56:22,303 [1    ] ameworkCore.AbpEntityFrameworkCoreModule - Registering DbContext: SunRose.ProjMgr.EntityFrameworkCore.ProjMgrDbContext, SunRose.ProjMgr.EntityFrameworkCore, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-02-18 14:56:23,070 [1    ] Abp.Localization.LocalizationManager     - Initializing 4 localization sources.
+DEBUG 2019-02-18 14:56:23,144 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: Abp
+DEBUG 2019-02-18 14:56:23,191 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: AbpZero
+DEBUG 2019-02-18 14:56:23,207 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: ProjMgr
+DEBUG 2019-02-18 14:56:23,229 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: AbpWeb
+DEBUG 2019-02-18 14:56:23,357 [1    ] Abp.BackgroundJobs.BackgroundJobManager  - Start background worker: Abp.BackgroundJobs.BackgroundJobManager
+DEBUG 2019-02-18 14:56:23,390 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Found 10 classes define auto mapping attributes
+DEBUG 2019-02-18 14:56:23,390 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - SunRose.ProjMgr.Models.TokenAuth.ExternalLoginProviderInfoModel
+DEBUG 2019-02-18 14:56:23,395 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - SunRose.ProjMgr.Users.Dto.CreateUserDto
+DEBUG 2019-02-18 14:56:23,395 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - SunRose.ProjMgr.Users.Dto.UserDto
+DEBUG 2019-02-18 14:56:23,395 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - SunRose.ProjMgr.Sessions.Dto.TenantLoginInfoDto
+DEBUG 2019-02-18 14:56:23,395 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - SunRose.ProjMgr.Sessions.Dto.UserLoginInfoDto
+DEBUG 2019-02-18 14:56:23,396 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - SunRose.ProjMgr.Roles.Dto.CreateRoleDto
+DEBUG 2019-02-18 14:56:23,396 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - SunRose.ProjMgr.Roles.Dto.PermissionDto
+DEBUG 2019-02-18 14:56:23,396 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - SunRose.ProjMgr.Roles.Dto.RoleDto
+DEBUG 2019-02-18 14:56:23,396 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - SunRose.ProjMgr.MultiTenancy.Dto.CreateTenantDto
+DEBUG 2019-02-18 14:56:23,396 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - SunRose.ProjMgr.MultiTenancy.Dto.TenantDto
+INFO  2019-02-18 14:56:27,820 [6    ] soft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:21021/  
+INFO  2019-02-18 14:56:34,238 [12   ] ore.Mvc.Internal.ControllerActionInvoker - Route matched with {action = "Index", controller = "Home", area = ""}. Executing action SunRose.ProjMgr.Web.Host.Controllers.HomeController.Index (SunRose.ProjMgr.Web.Host)
+INFO  2019-02-18 14:56:35,034 [12   ] ore.Mvc.Internal.ControllerActionInvoker - Executing action method SunRose.ProjMgr.Web.Host.Controllers.HomeController.Index (SunRose.ProjMgr.Web.Host) - Validation state: Valid
+INFO  2019-02-18 14:56:35,039 [12   ] ore.Mvc.Internal.ControllerActionInvoker - Executed action method SunRose.ProjMgr.Web.Host.Controllers.HomeController.Index (SunRose.ProjMgr.Web.Host), returned result Microsoft.AspNetCore.Mvc.RedirectResult in 1.6188ms.
+INFO  2019-02-18 14:56:35,112 [14   ] vc.Infrastructure.RedirectResultExecutor - Executing RedirectResult, redirecting to /swagger.
+INFO  2019-02-18 14:56:35,123 [14   ] ore.Mvc.Internal.ControllerActionInvoker - Executed action SunRose.ProjMgr.Web.Host.Controllers.HomeController.Index (SunRose.ProjMgr.Web.Host) in 881.2517ms
+INFO  2019-02-18 14:56:35,164 [14   ] soft.AspNetCore.Hosting.Internal.WebHost - Request finished in 7350.148ms 302 
+INFO  2019-02-18 14:56:35,167 [14   ] soft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:21021/swagger  
+INFO  2019-02-18 14:56:35,177 [14   ] soft.AspNetCore.Hosting.Internal.WebHost - Request finished in 10.5271ms 301 
+INFO  2019-02-18 14:56:35,180 [14   ] soft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:21021/swagger/index.html  
+INFO  2019-02-18 14:56:35,203 [14   ] soft.AspNetCore.Hosting.Internal.WebHost - Request finished in 24.0595ms 200 text/html
+INFO  2019-02-18 14:56:35,216 [6    ] soft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:21021/swagger/swagger-ui.css  
+INFO  2019-02-18 14:56:35,217 [14   ] soft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:21021/swagger/swagger-ui-bundle.js  
+INFO  2019-02-18 14:56:35,219 [12   ] soft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:21021/swagger/swagger-ui-standalone-preset.js  
+INFO  2019-02-18 14:56:35,223 [7    ] soft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:21021/swagger/ui/abp.js  
+INFO  2019-02-18 14:56:35,226 [11   ] soft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:21021/swagger/ui/abp.swagger.js  
+INFO  2019-02-18 14:56:35,256 [16   ] NetCore.StaticFiles.StaticFileMiddleware - Sending file. Request path: '/swagger/ui/abp.swagger.js'. Physical path: 'D:\code\OpenSource\SunRose.ProjMgr\aspnet-core\src\SunRose.ProjMgr.Web.Host\wwwroot\swagger\ui\abp.swagger.js'
+INFO  2019-02-18 14:56:35,258 [13   ] NetCore.StaticFiles.StaticFileMiddleware - Sending file. Request path: '/swagger/ui/abp.js'. Physical path: 'D:\code\OpenSource\SunRose.ProjMgr\aspnet-core\src\SunRose.ProjMgr.Web.Host\wwwroot\swagger\ui\abp.js'
+INFO  2019-02-18 14:56:35,259 [16   ] soft.AspNetCore.Hosting.Internal.WebHost - Request finished in 32.7891ms 200 application/javascript
+INFO  2019-02-18 14:56:35,261 [13   ] soft.AspNetCore.Hosting.Internal.WebHost - Request finished in 38.503ms 200 application/javascript
+INFO  2019-02-18 14:56:35,270 [18   ] NetCore.StaticFiles.StaticFileMiddleware - Sending file. Request path: '/swagger-ui.css'. Physical path: 'N/A'
+INFO  2019-02-18 14:56:35,276 [18   ] soft.AspNetCore.Hosting.Internal.WebHost - Request finished in 63.7429ms 200 text/css
+INFO  2019-02-18 14:56:35,279 [11   ] NetCore.StaticFiles.StaticFileMiddleware - Sending file. Request path: '/swagger-ui-standalone-preset.js'. Physical path: 'N/A'
+INFO  2019-02-18 14:56:35,281 [11   ] soft.AspNetCore.Hosting.Internal.WebHost - Request finished in 62.9544ms 200 application/javascript
+INFO  2019-02-18 14:56:35,300 [6    ] NetCore.StaticFiles.StaticFileMiddleware - Sending file. Request path: '/swagger-ui-bundle.js'. Physical path: 'N/A'
+INFO  2019-02-18 14:56:35,302 [6    ] soft.AspNetCore.Hosting.Internal.WebHost - Request finished in 88.1699ms 200 application/javascript
+INFO  2019-02-18 14:56:35,533 [7    ] soft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:21021/swagger/v1/swagger.json  
+INFO  2019-02-18 14:56:35,580 [12   ] soft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:21021/swagger/favicon-32x32.png  
+INFO  2019-02-18 14:56:35,583 [12   ] NetCore.StaticFiles.StaticFileMiddleware - Sending file. Request path: '/favicon-32x32.png'. Physical path: 'N/A'
+INFO  2019-02-18 14:56:35,585 [12   ] soft.AspNetCore.Hosting.Internal.WebHost - Request finished in 5.2965ms 200 image/png
+INFO  2019-02-18 14:56:35,592 [6    ] soft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:21021/swagger/favicon-16x16.png  
+INFO  2019-02-18 14:56:35,596 [6    ] NetCore.StaticFiles.StaticFileMiddleware - Sending file. Request path: '/favicon-16x16.png'. Physical path: 'N/A'
+INFO  2019-02-18 14:56:35,599 [6    ] soft.AspNetCore.Hosting.Internal.WebHost - Request finished in 5.8343ms 200 image/png
+INFO  2019-02-18 14:56:35,733 [7    ] soft.AspNetCore.Hosting.Internal.WebHost - Request finished in 199.8798ms 200 application/json;charset=utf-8
+DEBUG 2019-02-18 14:57:21,222 [19   ] Abp.Modules.AbpModuleManager             - Shutting down has been started
+DEBUG 2019-02-18 14:57:21,224 [19   ] Abp.BackgroundJobs.BackgroundJobManager  - Stop background worker: Abp.BackgroundJobs.BackgroundJobManager
+DEBUG 2019-02-18 14:57:21,225 [19   ] Abp.BackgroundJobs.BackgroundJobManager  - WaitToStop background worker: Abp.BackgroundJobs.BackgroundJobManager
+DEBUG 2019-02-18 14:57:21,226 [19   ] Abp.Modules.AbpModuleManager             - Shutting down completed.
